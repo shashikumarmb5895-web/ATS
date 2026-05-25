@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+uploads/
+.env
+venv/
+.venv/
+*.egg-info/
+scratch/
+test_resume.txt
+
+.vercel
